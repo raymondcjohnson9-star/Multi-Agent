@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Agent</string>
+
+    <string name="welcome_title">Welcome to Multi Agent</string>
+
+    <string name="welcome_description">
+        Your multitasking space.
+        Use two apps with less switching.
+    </string>
+
+    <string name="split_screen">Split Screen</string>
+
+    <string name="floating_window">Floating Window</string>
+
+    <string name="coming_soon">Coming soon</string>
+
+</resources>
